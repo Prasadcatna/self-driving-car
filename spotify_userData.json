@@ -1,0 +1,33 @@
+{
+  "display_name": "Prasad",
+  "external_urls": {
+    "spotify": "https://open.spotify.com/user/dr83jfh67p7egdbrjszlpx2py"
+  },
+  "href": "https://api.spotify.com/v1/users/dr83jfh67p7egdbrjszlpx2py",
+  "id": "dr83jfh67p7egdbrjszlpx2py",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67757000003b82df04af83829e2a9eabe780d1",
+      "height": 64,
+      "width": 64
+    },
+    {
+      "url": "https://i.scdn.co/image/ab6775700000ee85df04af83829e2a9eabe780d1",
+      "height": 300,
+      "width": 300
+    }
+  ],
+  "type": "user",
+  "uri": "spotify:user:dr83jfh67p7egdbrjszlpx2py",
+  "followers": {
+    "href": null,
+    "total": 1
+  },
+  "country": "IN",
+  "product": "premium",
+  "explicit_content": {
+    "filter_enabled": false,
+    "filter_locked": false
+  },
+  "email": "rockprasad428@gmail.com"
+}
